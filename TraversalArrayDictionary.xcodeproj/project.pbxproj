@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		848992341A5F83DA00EB1523 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 848992331A5F83DA00EB1523 /* README.md */; };
 		84FAC1671A5115E200FCDB9E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FAC1661A5115E200FCDB9E /* main.m */; };
 		84FAC16A1A5115E200FCDB9E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FAC1691A5115E200FCDB9E /* AppDelegate.m */; };
 		84FAC16D1A5115E200FCDB9E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FAC16C1A5115E200FCDB9E /* ViewController.m */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		848992331A5F83DA00EB1523 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		84FAC1611A5115E200FCDB9E /* TraversalArrayDictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TraversalArrayDictionary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FAC1651A5115E200FCDB9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84FAC1661A5115E200FCDB9E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 		84FAC1641A5115E200FCDB9E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				848992331A5F83DA00EB1523 /* README.md */,
 				84FAC1651A5115E200FCDB9E /* Info.plist */,
 				84FAC1661A5115E200FCDB9E /* main.m */,
 			);
@@ -171,6 +174,7 @@
 			files = (
 				84FAC16D1A5115E200FCDB9E /* ViewController.m in Sources */,
 				84FAC16A1A5115E200FCDB9E /* AppDelegate.m in Sources */,
+				848992341A5F83DA00EB1523 /* README.md in Sources */,
 				84FAC1671A5115E200FCDB9E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
